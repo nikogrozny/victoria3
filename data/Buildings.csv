@@ -1,0 +1,7 @@
+id,building,method,default,type
+0,Tooling Workshop,Crude Tools,true,Base
+1,Tooling Workshop,Pig Iron Tools,false,Base
+2,Tooling Workshop,Steel Tools,false,Base
+3,Tooling Workshop,Hand Assembly,true,Automation
+4,Tooling Workshop,Water-tube Boiler,false,Automation
+5,Furniture Manufactury,Handcrafted Furniture,true,Base

@@ -1,0 +1,7 @@
+id,name,type,wood,tools,iron,steel,coal,fabric,furniture,machinists,laborers,engineers
+0,Crude Tools,Base,-30,30,0,0,0,0,0,0,4500,0
+1,Pig Iron Tools,Base,-30,60,-20,0,0,0,0,500,4000,0
+2,Steel Tools,Base,-30,80,0,-20,0,0,0,1000,3000,500
+3,Hand Assembly,Automation,0,0,0,0,0,0,0,0,0,0
+4,Water-tube Boiler,Automation,0,-5,0,0,-5,0,0,0,-1500,0
+5,Handcrafted Furniture,Base,-30,0,0,0,0,-10,45,0,4500,0
